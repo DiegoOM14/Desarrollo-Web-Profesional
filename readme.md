@@ -1,37 +1,35 @@
-# Repositorio de la Materia [Nombre de la Materia]
+# Desarrollo Web Profesional
 
-¡Bienvenido/a al repositorio de la materia [Nombre de la Materia]!
+¡Bienvenido al repositorio de Desarrollo Web Profesional!
 
-Este repositorio se ha creado para facilitar la entrega y revisión de trabajos prácticos, proyectos y otros materiales relacionados con la materia [Nombre de la Materia]. Aquí encontrarás instrucciones sobre cómo enviar tus trabajos y cómo colaborar con tus compañeros.
+Este repositorio contiene los trabajos prácticos y proyectos realizados durante la materia de Desarrollo Web Profesional, impartida por el profesor Alejandro Cesar Valencia Garcia en la Universidad Tecnológica de San Juan del Río (UTSJR).
 
-## Instrucciones para Entregar Trabajos
+## Alumno
 
-1. **Fork del Repositorio**: Haz un "fork" de este repositorio haciendo clic en el botón "Fork" en la esquina superior derecha de esta página.
+- **Nombre:** José Diego Ordoñez Morales
+- **Grupo:** DS02SV-23
+- **Correo:** diegoom.ti21@utsjr.edu.mx
 
-2. **Clona tu Repositorio Forked**: En tu perfil, encontrarás una copia del repositorio. Clónalo en tu máquina local utilizando el comando `git clone <url-del-repositorio>` en tu terminal.
+## Contenido
 
-3. **Crea una Rama para tu Trabajo**: Antes de comenzar a trabajar en tu tarea, crea una nueva rama para ella usando el comando `git checkout -b nombre-de-tu-rama`.
+En este repositorio encontrarás proyectos y prácticas relacionadas con el desarrollo web, con un enfoque principal en Angular.
 
-4. **Realiza tus Cambios**: Trabaja en tus tareas y asegúrate de seguir las pautas y requisitos especificados en las instrucciones del trabajo.
+## Estructura del Repositorio
 
-5. **Agrega y Confirma tus Cambios**: Una vez que hayas terminado tus cambios, agrega los archivos modificados usando `git add .` y luego confirma los cambios usando `git commit -m "Descripción breve de tus cambios"`.
+- `Parcial/`: Número de parcial
+  - `Proyecto/`: Nombre del proyecto
+- ...
 
-6. **Sube tus Cambios**: Sube tus cambios a tu repositorio remoto usando `git push origin nombre-de-tu-rama`.
+## Trabajos del Primer Parcial
 
-7. **Envía un Pull Request (PR)**: Dirígete a la página de tu repositorio en GitHub y haz clic en el botón "Pull Request". Asegúrate de seleccionar la rama correcta que contiene tus cambios y describe brevemente tus contribuciones.
+1. **Fundamentos**
+   - Descripción: Fundamentos de angular.
+   - Enlace a GitHub Pages: [Práctica Fundamentos](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/Primer%20Parcial/Fundamentos/index.html)
 
-## Normas de Colaboración
+2. **Clientes**
+   - Descripción: Práctica realizada en grupo.
+   - Enlace a GitHub Pages: [Práctica Clientes](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/Primer%20Parcial/Clientes/index.html)
 
-- **Respeto**: Trata a tus compañeros con respeto y cortesía en todas las interacciones dentro de este repositorio.
-
-- **Originalidad**: Asegúrate de que tu trabajo sea original y propio. No copies ni plagies trabajos de otros compañeros o fuentes externas.
-
-- **Comentarios Constructivos**: Cuando revises el trabajo de tus compañeros, proporciona comentarios constructivos que ayuden a mejorar la calidad del trabajo.
-
-- **Cumplimiento de Plazos**: Intenta entregar tus trabajos antes de la fecha límite especificada para evitar problemas de última hora.
-
-## Contacto
-
-Si tienes alguna pregunta o problema relacionado con este repositorio, no dudes en ponerte en contacto con el profesor/a de la materia.
-
-Esperamos que este repositorio facilite tu experiencia de aprendizaje y colaboración. ¡Gracias por tu participación!
+3. **Tareas**
+   - Descripción: Ejercicio encargado de tarea.
+   - Enlace a GitHub Pages: [Proyecto Tareas](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/Primer%20Parcial/Anime/index.html)
