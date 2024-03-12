@@ -33,3 +33,17 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 3. **Tareas**
    - Descripción: Ejercicio encargado de tarea.
    - Enlace a GitHub Pages: [Proyecto Tareas](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/Primer%20Parcial/Anime/index.html)
+  
+## Trabajos del Segundo Parcial
+
+1. **Libros**
+   - Descripción: Práctica realizada en grupo.
+   - Enlace a GitHub Pages: [Práctica Libros](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/2do%20Parcial/Libros/index.html)
+
+2. **Clientes**
+   - Descripción: Práctica realizada en grupo.
+   - Enlace a GitHub Pages: [Práctica Clientes](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/2do%20Parcial/Clientes/index.html)
+
+3. **Tareas**
+   - Descripción: Ejercicio encargado de tarea.
+   - Enlace a GitHub Pages: [Proyecto Tareas](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/Primer%20Parcial/Anime/index.html)
