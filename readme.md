@@ -32,7 +32,7 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 
 3. **Anime**
    - Descripción: Ejercicio encargado de Anime.
-   - Enlace a GitHub Pages: [Proyecto Tareas](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/Primer%20Parcial/Anime/index.html)
+   - Enlace a GitHub Pages: [Proyecto Anime](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/Primer%20Parcial/Anime/index.html)
   
 ## Trabajos del Segundo Parcial
 
@@ -46,4 +46,4 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 
 3. **Anime**
    - Descripción: Ejercicio encargado de Anime.
-   - Enlace a GitHub Pages: [Proyecto Tareas](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/2do%20Parcial/Tareas/index.html)
+   - Enlace a GitHub Pages: [Proyecto Anime](https://DiegoOM14.github.io/Desarrollo-Web-Profesional/2do%20Parcial/Tareas/index.html)
